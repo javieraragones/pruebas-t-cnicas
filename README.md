@@ -1,4 +1,4 @@
-# pruebas-tecnicas-react
+# Pruebas Técnicas React
 Repositorio que alberga ejercicios y desafíos técnicos que he completado como parte de mi preparación para entrevistas y pruebas de programación.
 
 ## Prueba 1 - Aplicación que muestra un hecho aleatorio sobre gatos y una imagen relacionada
